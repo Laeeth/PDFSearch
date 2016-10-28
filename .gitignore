@@ -6,6 +6,7 @@
 *.so
 *.dylib
 *.dll
+*.swp
 
 # Compiled Static libraries
 *.a
